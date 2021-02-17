@@ -1,4 +1,4 @@
-# Title: fsdev/microsoft-telemetry
+# Title: fabianseelbach/microsoft-telemetry
 #
 # This hosts file contains domains used by Microsoft to collect telemetry data
 # Its based on this document (German): https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente_1_0.pdf?__blob=publicationFile&v=3
